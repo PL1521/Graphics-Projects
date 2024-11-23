@@ -1,0 +1,21 @@
+{
+  "name": "a4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "In this assignment, you will dive deeper into custom shaders with Three.js and learn to apply dynamic textures to 3D objects. You will load images as textures, modify fragment shaders to create custom effects, and animate objects/textures with transformation matrices and keyboard interactions.",
+  "dependencies": {
+    "three": "^0.169.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.11"
+  },
+  "directories": {
+    "doc": "docs"
+  }
+}
